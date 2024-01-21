@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>women &#8211; techamica</title>
+	<atom:link href="https://rjghongade.github.io/techamica/tag/women/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rjghongade.github.io/techamica</link>
+	<description></description>
+	<lastBuildDate>Thu, 10 Mar 2016 10:49:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>Empowering Women in an organization</title>
+		<link>https://rjghongade.github.io/techamica/2016/03/10/empowering-women-in-an-organization/</link>
+					<comments>https://rjghongade.github.io/techamica/2016/03/10/empowering-women-in-an-organization/#respond</comments>
+		
+		<dc:creator><![CDATA[raju]]></dc:creator>
+		<pubDate>Thu, 10 Mar 2016 10:49:33 +0000</pubDate>
+				<category><![CDATA[Slider]]></category>
+		<category><![CDATA[Empowerment]]></category>
+		<category><![CDATA[women]]></category>
+		<guid isPermaLink="false">http://raratheme.com/preview/business-one-page/?p=231</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://rjghongade.github.io/techamica/2016/03/10/empowering-women-in-an-organization/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

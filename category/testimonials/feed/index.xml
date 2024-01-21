@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>testimonials &#8211; techamica</title>
+	<atom:link href="https://rjghongade.github.io/techamica/category/testimonials/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rjghongade.github.io/techamica</link>
+	<description></description>
+	<lastBuildDate>Mon, 14 Mar 2016 08:40:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>William Wallace</title>
+		<link>https://rjghongade.github.io/techamica/2016/03/14/william-wallace/</link>
+					<comments>https://rjghongade.github.io/techamica/2016/03/14/william-wallace/#respond</comments>
+		
+		<dc:creator><![CDATA[raju]]></dc:creator>
+		<pubDate>Mon, 14 Mar 2016 08:40:22 +0000</pubDate>
+				<category><![CDATA[testimonials]]></category>
+		<guid isPermaLink="false">http://raratheme.com/preview/business-one-page/?p=136</guid>
+
+					<description><![CDATA[Executive Firm]]></description>
+										<content:encoded><![CDATA[<p>I like Business Onepage more and more each day because it makes my life a lot easier.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rjghongade.github.io/techamica/2016/03/14/william-wallace/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Gerald Lopez</title>
+		<link>https://rjghongade.github.io/techamica/2016/03/14/gerald-lopez/</link>
+					<comments>https://rjghongade.github.io/techamica/2016/03/14/gerald-lopez/#respond</comments>
+		
+		<dc:creator><![CDATA[raju]]></dc:creator>
+		<pubDate>Mon, 14 Mar 2016 08:29:00 +0000</pubDate>
+				<category><![CDATA[testimonials]]></category>
+		<guid isPermaLink="false">http://raratheme.com/preview/business-one-page/?p=133</guid>
+
+					<description><![CDATA[CEO,  Another Business ]]></description>
+										<content:encoded><![CDATA[<p>Wow what great service, I love it! Keep up the excellent work</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rjghongade.github.io/techamica/2016/03/14/gerald-lopez/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Janet Bowman</title>
+		<link>https://rjghongade.github.io/techamica/2016/03/14/janet-bowman/</link>
+					<comments>https://rjghongade.github.io/techamica/2016/03/14/janet-bowman/#respond</comments>
+		
+		<dc:creator><![CDATA[raju]]></dc:creator>
+		<pubDate>Mon, 14 Mar 2016 08:17:58 +0000</pubDate>
+				<category><![CDATA[testimonials]]></category>
+		<guid isPermaLink="false">http://raratheme.com/preview/business-one-page/?p=130</guid>
+
+					<description><![CDATA[Owner of Business]]></description>
+										<content:encoded><![CDATA[<p><i>&#8220;I made back the purchase price in just 48 hours! We&#8217;ve used Business Onepage for the last five years. I like Business Onepage more and more each day because it makes my life a lot easier. I couldn&#8217;t have asked for more than this.&#8221;</i></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rjghongade.github.io/techamica/2016/03/14/janet-bowman/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

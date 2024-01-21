@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>About Us &#8211; techamica</title>
+	<atom:link href="https://rjghongade.github.io/techamica/category/about-us/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rjghongade.github.io/techamica</link>
+	<description></description>
+	<lastBuildDate>Fri, 11 Mar 2016 11:28:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>Highly Customizable</title>
+		<link>https://rjghongade.github.io/techamica/2016/03/11/highly-customizable/</link>
+					<comments>https://rjghongade.github.io/techamica/2016/03/11/highly-customizable/#respond</comments>
+		
+		<dc:creator><![CDATA[raju]]></dc:creator>
+		<pubDate>Fri, 11 Mar 2016 11:28:30 +0000</pubDate>
+				<category><![CDATA[About Us]]></category>
+		<guid isPermaLink="false">http://raratheme.com/preview/business-one-page/?p=55</guid>
+
+					<description><![CDATA[Our Theme are easy to customize and make changes. You can make your own unique website using our WordPress Business One Page Theme.]]></description>
+										<content:encoded><![CDATA[<p>Our Theme are easy to customize and make changes. You can make your own unique website using our WordPress Business One Page Theme.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rjghongade.github.io/techamica/2016/03/11/highly-customizable/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Optimized for Speed</title>
+		<link>https://rjghongade.github.io/techamica/2016/03/11/optimized-for-speed/</link>
+					<comments>https://rjghongade.github.io/techamica/2016/03/11/optimized-for-speed/#respond</comments>
+		
+		<dc:creator><![CDATA[raju]]></dc:creator>
+		<pubDate>Fri, 11 Mar 2016 11:25:43 +0000</pubDate>
+				<category><![CDATA[About Us]]></category>
+		<guid isPermaLink="false">http://raratheme.com/preview/business-one-page/?p=52</guid>
+
+					<description><![CDATA[All our Themes are optimized for speed, providing you with quick loading website that will give you advantage while you are ranking your website on search engine.]]></description>
+										<content:encoded><![CDATA[<p>All our Themes are optimized for speed, providing you with quick loading website that will give you advantage while you are ranking your website on search engine.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rjghongade.github.io/techamica/2016/03/11/optimized-for-speed/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dedicated Support</title>
+		<link>https://rjghongade.github.io/techamica/2016/03/11/dedicated-service/</link>
+					<comments>https://rjghongade.github.io/techamica/2016/03/11/dedicated-service/#respond</comments>
+		
+		<dc:creator><![CDATA[raju]]></dc:creator>
+		<pubDate>Fri, 11 Mar 2016 11:14:33 +0000</pubDate>
+				<category><![CDATA[About Us]]></category>
+		<guid isPermaLink="false">http://raratheme.com/preview/business-one-page/?p=44</guid>
+
+					<description><![CDATA[We provide efficient and dedicated Support to our customers.  Customer service is the provision of service to customers before, during and after a purchase.]]></description>
+										<content:encoded><![CDATA[<p>We provide efficient and dedicated Support to our customers.  Customer service is the provision of service to customers before, during and after a purchase.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rjghongade.github.io/techamica/2016/03/11/dedicated-service/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

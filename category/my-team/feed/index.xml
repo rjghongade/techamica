@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>My Team &#8211; techamica</title>
+	<atom:link href="https://rjghongade.github.io/techamica/category/my-team/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rjghongade.github.io/techamica</link>
+	<description></description>
+	<lastBuildDate>Mon, 14 Mar 2016 07:00:32 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>Arnold Clark</title>
+		<link>https://rjghongade.github.io/techamica/2016/03/14/arnold-clark/</link>
+					<comments>https://rjghongade.github.io/techamica/2016/03/14/arnold-clark/#respond</comments>
+		
+		<dc:creator><![CDATA[raju]]></dc:creator>
+		<pubDate>Mon, 14 Mar 2016 07:00:32 +0000</pubDate>
+				<category><![CDATA[My Team]]></category>
+		<guid isPermaLink="false">http://raratheme.com/preview/business-one-page/?p=102</guid>
+
+					<description><![CDATA[CEO/Founder]]></description>
+										<content:encoded><![CDATA[<p>A wonderful Soul with lots of enthusiasm and Optimism. Highly energetic person who lightens up the whole room. He loves to paint and play soccer in his free time.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rjghongade.github.io/techamica/2016/03/14/arnold-clark/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Marshall Barnes</title>
+		<link>https://rjghongade.github.io/techamica/2016/03/14/marshall-barnes/</link>
+					<comments>https://rjghongade.github.io/techamica/2016/03/14/marshall-barnes/#respond</comments>
+		
+		<dc:creator><![CDATA[raju]]></dc:creator>
+		<pubDate>Mon, 14 Mar 2016 06:50:17 +0000</pubDate>
+				<category><![CDATA[My Team]]></category>
+		<guid isPermaLink="false">http://raratheme.com/preview/business-one-page/?p=110</guid>
+
+					<description><![CDATA[Web Designer]]></description>
+										<content:encoded><![CDATA[<p>He is our creative Web Designer. He is a young and enthusiastic team player. He loves to paint and read in his free time</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rjghongade.github.io/techamica/2016/03/14/marshall-barnes/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Felicia Chambers</title>
+		<link>https://rjghongade.github.io/techamica/2016/03/14/felicia-chambers/</link>
+					<comments>https://rjghongade.github.io/techamica/2016/03/14/felicia-chambers/#respond</comments>
+		
+		<dc:creator><![CDATA[raju]]></dc:creator>
+		<pubDate>Mon, 14 Mar 2016 06:42:35 +0000</pubDate>
+				<category><![CDATA[My Team]]></category>
+		<guid isPermaLink="false">http://raratheme.com/preview/business-one-page/?p=108</guid>
+
+					<description><![CDATA[Project Manager]]></description>
+										<content:encoded><![CDATA[<p>Felicia is a sincere and dedicated member of our team. She works hard and inspires and motivates our team to perform the best.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://rjghongade.github.io/techamica/2016/03/14/felicia-chambers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

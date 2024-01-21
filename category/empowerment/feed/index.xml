@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Empowerment &#8211; techamica</title>
+	<atom:link href="https://rjghongade.github.io/techamica/category/empowerment/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rjghongade.github.io/techamica</link>
+	<description></description>
+	<lastBuildDate>Fri, 11 Mar 2016 07:13:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+	<item>
+		<title>Encouraging Women Participation</title>
+		<link>https://rjghongade.github.io/techamica/2016/03/11/encouraging-women-participation/</link>
+					<comments>https://rjghongade.github.io/techamica/2016/03/11/encouraging-women-participation/#respond</comments>
+		
+		<dc:creator><![CDATA[raju]]></dc:creator>
+		<pubDate>Fri, 11 Mar 2016 07:13:15 +0000</pubDate>
+				<category><![CDATA[Empowerment]]></category>
+		<category><![CDATA[Slider]]></category>
+		<guid isPermaLink="false">http://raratheme.com/preview/business-one-page/?p=236</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://rjghongade.github.io/techamica/2016/03/11/encouraging-women-participation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
